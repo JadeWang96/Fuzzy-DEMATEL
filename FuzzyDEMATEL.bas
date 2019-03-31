@@ -181,7 +181,7 @@ Sheet3.Cells(i, j + 90) = D1(i, j)
 Next
 Next
 
-Sheet3.Cells(1, 100) = "1-D____"ÿ’Û"
+Sheet3.Cells(1, 100) = "1-D____"√ò√ï√≥"
 
 Sheet3.Range(Sheet3.Cells(1, 101), Sheet3.Cells(9, 109)).FormulaArray = "=MINVERSE(RC[-10]:R[8]C[-2])"
 
